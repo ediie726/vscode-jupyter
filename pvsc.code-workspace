@@ -32,7 +32,8 @@
             "**/.vscode-test/insider/**": true,
             "**/.vscode-test/stable/**": true,
             "**/out/**": true
-        }
+        },
+        "powershell.cwd": "c:\\Users\\19203\\OneDrive\\Documents\\GitHub\\vscode-jupyter\\pythonFiles"
     },
     "launch": {
         "configurations": [
